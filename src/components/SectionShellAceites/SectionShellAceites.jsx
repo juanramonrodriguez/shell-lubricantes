@@ -8,7 +8,7 @@ import { ContainerSections,
   ContainerImg,
   Divider,
   ContainerBtn,
- } from './styledShellAceites';
+ } from "./StyledShellAceites";
  import auto from "./img/auto.png"
  import moto from "./img/moto.png"
  import camion from "./img/camion.avif"
